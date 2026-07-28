@@ -1,0 +1,9 @@
+"commands":[
+    {
+         "trigger_range":[10,14],
+         "msg":"Resolve $name's on-summon effect?",
+         "options":[
+             "label=Special Summon 1 Level 6 Zombie monster from your deck, except with 1950 ATK¬search(0,255,[0],\"IS_MONSTER && TYPES == zombie && LVL == 6 && ATK != 1950\")"
+          ]
+     }
+]

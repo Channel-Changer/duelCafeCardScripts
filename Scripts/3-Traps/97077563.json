@@ -1,0 +1,8 @@
+"commands":[
+    {
+        "trigger":9,
+        "options":[
+         "label=Special Summon 1 monster from your GY in Attack Position¬search(2,255,[2],\"IS_MONSTER\")"
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+"commands":[
+    {
+         "trigger":2,
+         "msg":"Resolve $name's GY effect?",
+         "options":[
+             "label=Set 1 \"Call of the Haunted\" from your GY¬search(0,255,[2],\"NAME == Call of the Haunted\")"
+          ]
+     }
+]
