@@ -1,11 +1,8 @@
-{
-  "commands": [
+"commands": [
     {
-      "trigger_range": [20, 24],
-      "msg": "Resolve $name's effect?",
-      "options": [
-        "label=Your opponent gains 3000 LP¬opp¬add_lp=3000"
-      ]
+        "trigger_range":[20,24],
+        "options":[
+            "label=Your opponent gains 3000 LP¬opp¬add_lp=3000"
+        ]
     }
-  ]
-}
+]
