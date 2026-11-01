@@ -1,6 +1,6 @@
 const patron = "Power Patron";
 const artmage = "Artmage";
-const searchCondition = "(IS_MONSTER && NAME != Vidolium the Unstable Power Patron of Unity && (NAME == %$patron% || NAME == %$artmage% || DESC == %his card is always treated as a \"$patron\" card%)) && NAME != $name";
+const searchCondition = "(IS_MONSTER && NAME != Vidolium the Unstable Power Patron of Unity && (NAME == %$patron% || NAME == %$artmage% || DESC == %his card is always treated as a \\\"$patron\\\" card%)) && NAME != $name";
 
 "commands":[
     {
