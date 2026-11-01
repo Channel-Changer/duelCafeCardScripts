@@ -1,7 +1,7 @@
-"commands": [
+"commands":[
       {
-          "trigger_range": [20, 24],
-          "options": [
+          "trigger_range":[20, 24],
+          "options":[
               "label=Draw 1 card¬draw(1)"
           ]
       }
