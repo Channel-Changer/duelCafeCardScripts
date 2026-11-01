@@ -1,0 +1,8 @@
+"commands": [
+    {
+        "trigger_range":[20,24],
+        "options":[
+            "label=Your opponent draws 2 cards¬opp¬draw(2)"
+        ]
+    }
+]
