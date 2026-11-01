@@ -1,11 +1,8 @@
-{
-  "commands": [
-    {
-      "trigger_range": [20, 24],
-      "msg": "Resolve $name's effect?",
-      "options": [
-        "label=Draw 1 card¬draw(1)"
-      ]
-    }
+"commands": [
+      {
+          "trigger_range": [20, 24],
+          "options": [
+              "label=Draw 1 card¬draw(1)"
+          ]
+      }
   ]
-}
