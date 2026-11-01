@@ -1,0 +1,13 @@
+"commands":[
+    {
+        "conditions":{
+            "control_self":97556336,
+            "zone":0
+        },
+        "trigger_range":[20,24],
+        "msg":"Pay the cost for $name's effect?",
+        "options":[
+            "label=Send 1 \"Medius the Pure\" from your Deck to the GY¬is_cost¬source=0¬dest=2¬target=97556336¬rand=1"
+        ]
+    }
+]
