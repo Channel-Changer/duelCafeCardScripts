@@ -1,16 +1,16 @@
-"commands": [
-  {
-    "trigger_range": [10, 14],
-    "msg": "Resolve $name's on summon effect?",
-    "options": [
-      "label=Shuffle all banished cards into their respective Decks¬source=3¬dest=0¬up_to¬rand=99¬opp¬rand=99"
-    ]
-  },
-  {
-    "trigger": 3,
-    "msg": "Resolve $name's on banish effect?",
-    "options": [
-      "label=Banish 5 cards from the top of each player's Deck¬source=0¬dest=3¬rand=5¬opp¬rand=5"
-    ]
-  }
+"commands":[
+    {
+        "trigger_range":[10,14],
+        "msg":"Resolve $name's on-summon effect?",
+        "options":[
+            "label=Shuffle all banished cards into their respective Decks¬source=3¬dest=0¬up_to¬rand=99¬opp¬rand=99"
+        ]
+    },
+    {
+        "trigger":3,
+        "msg":"Resolve $name's effect upon being banished?",
+        "options":[
+            "label=Banish 5 cards from the top of each player's Deck¬source=0¬dest=3¬rand=5¬opp¬rand=5"
+        ]
+    }
 ]
