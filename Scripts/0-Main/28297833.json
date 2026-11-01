@@ -3,7 +3,7 @@
         "trigger_range":[10,14],
         "msg":"Resolve $name's on-summon effect?",
         "options":[
-            "label=Shuffle all banished cards into their respective Decks¬source=3¬dest=0¬up_to¬rand=99¬opp¬rand=99"
+            "label=Shuffle all banished cards into their respective Decks¬source=3¬dest=0¬up_to¬rand=75¬source=5¬rand=75¬opp¬rand=75¬source=3¬rand=75"
         ]
     },
     {
