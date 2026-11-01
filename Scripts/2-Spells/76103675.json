@@ -1,11 +1,8 @@
-{
-  "commands": [
+"commands":[
     {
-      "trigger_range": [20, 24],
-      "msg": "Resolve $name's effect?",
-      "options": [
-        "label=Activate Sparks¬opp¬add_lp=-200"
-      ]
+        "trigger_range":[20,24],
+        "options":[
+            "label=Inflict 200 damage to your opponent¬opp¬add_lp=-200"
+        ]
     }
-  ]
-}
+]
