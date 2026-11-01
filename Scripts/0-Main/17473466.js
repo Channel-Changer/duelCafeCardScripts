@@ -17,7 +17,7 @@ const searchCondition = "(IS_MONSTER && NAME != Vidolium the Unstable Power Patr
         },
         "msg":"Resolve $name's ignition effect?",
         "options":[
-            "label=Special Summon 1 \"Nerva the Power Patron of Creation\" from your Extra Deck¬target=53589300¬source=0¬add=1"
+            "label=Special Summon 1 \"Nerva the Power Patron of Creation\" from your Extra Deck¬target=53589300¬source=1¬add=1"
         ]
     }
 ]
