@@ -1,11 +1,8 @@
-{
-  "commands": [
+"commands": [
     {
-      "trigger_range": [20, 24],
-      "msg": "Resolve $name's effect?",
-      "options": [
-        "label=Activate Hinotama¬opp¬add_lp=-500"
-      ]
+        "trigger_range":[20,24],
+        "options":[
+            "label=Inflict 500 damage to your opponent¬opp¬add_lp=-500"
+        ]
     }
-  ]
-}
+]
