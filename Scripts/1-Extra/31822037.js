@@ -10,7 +10,7 @@ const patron = "Power Patron";
                     "zone":0
                 },
                 {
-                    "control_self":"NAME == %$patron% || DESC == %This card is always treated as a \\\"$patron\\\" card%",
+                    "control_self":"NAME == %$patron% || DESC == %This card is always treated as a \"$patron\" card%",
                     "zone":2
                 }
             ]
