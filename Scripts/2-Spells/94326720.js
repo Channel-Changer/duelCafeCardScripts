@@ -4,16 +4,8 @@ const searchCondition = "NAME == %$medius%";
 "commands":[
     {
         "conditions":{
-            "OR":[
-                {
-                    "control_self":"$searchCondition",
-                    "zone":2
-                },
-                {
-                    "control_self":"$searchCondition",
-                    "zone":3
-                }
-            ]
+            "control_self":"$searchCondition",
+            "zone_range":[2,3]
         },
         "trigger_range":[20,24],
         "options":[
