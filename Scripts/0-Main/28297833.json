@@ -1,5 +1,4 @@
 #ALWAYS_AUTOMATE
-
 "commands":[
     {
         "trigger_range":[10,14],
