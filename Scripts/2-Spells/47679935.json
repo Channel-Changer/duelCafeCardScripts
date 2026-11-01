@@ -1,4 +1,4 @@
-"commands": [
+"commands":[
     {
         "trigger_list":[9,109],
         "msg":"Resolve $name's activation effect?",
