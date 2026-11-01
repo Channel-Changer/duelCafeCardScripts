@@ -1,0 +1,8 @@
+"commands":[
+    {
+        "trigger_range":[20,24],
+        "options":[
+            "label=Inflict 800 damage to your opponent¬opp¬add_lp=-800"
+        ]
+    }
+]

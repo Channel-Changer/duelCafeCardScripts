@@ -1,0 +1,8 @@
+"commands":[
+    {
+        "trigger_range":[20,24],
+        "options":[
+            "label=Your opponent gains 3000 LP¬opp¬add_lp=3000"
+        ]
+    }
+]
