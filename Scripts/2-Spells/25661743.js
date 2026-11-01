@@ -1,4 +1,4 @@
-const sendCondition = "IS_MONSTER && NAME == %Power Patron% || DESC == %his card is always treated as a \"Power Patron\" card%";
+const sendCondition = "IS_MONSTER && NAME == %Power Patron% || DESC == %his card is always treated as a \\\"Power Patron\\\" card%";
 const searchCondition = "IS_MONSTER && ATTR == dark && TYPES == fairy";
 
 "commands":[
