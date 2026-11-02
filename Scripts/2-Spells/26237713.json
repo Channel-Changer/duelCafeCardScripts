@@ -2,7 +2,7 @@
     {
         "trigger_range":[20,24],
         "options":[
-            "label=Add 1 Pendulum Monster from your Deck to your Extra Deck face-up¬search(0,4,[0], \"TYPES == pendulum\", -1, -1)"
+            "label=Add 1 Pendulum Monster from your Deck to your Extra Deck face-up¬search(0,4,[0], \"TYPES == pendulum\",-1,-1)"
         ]
     }
 ]
